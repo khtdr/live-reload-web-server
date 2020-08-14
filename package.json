@@ -1,0 +1,25 @@
+{
+  "name": "live-reload-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khtdr/live-reload-web-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khtdr/live-reload-web-server/issues"
+  },
+  "homepage": "https://github.com/khtdr/live-reload-web-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0"
+  }
+}
